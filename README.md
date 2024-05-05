@@ -1,13 +1,10 @@
 # TouchSpeare - Shakespheare-First-Folio-Touch-Table-Application
-Unity application of Shakespeare's First Folio for an interactive multi-touch table for the UBC Library (C#, Unity 3D, Figma)
+### Unity application of Shakespeare's First Folio for an interactive multi-touch table for the UBC Library (C#, Unity 3D, Figma)
 ---
-![Uploading TouchSpearFirstFolioDemo.gif…]()
-
+![TouchSpearFirstFolioDemo](https://github.com/kibum-j-kim/Shakespheare-First-Folio-Touch-Table-Application/assets/156856966/f5939bda-8a68-4769-a613-e21d7c497ebe)
 ---
 
 ## Team
-
-
 - Project Supervisor: Dr. Patrick Parra Pennefather
 - Client: Chelsea Shriver, Rare Books and Special Collections Librarian
 - Developer & UX Researcher: Ki Bum Kim
@@ -27,4 +24,5 @@ As the Unity developer, I was tasked with developing the entire user interface f
 ![VideoGalleryTouch](https://github.com/kibum-j-kim/Shakespheare-First-Folio-Touch-Table-Application/assets/156856966/bfa8d7fe-f104-4a99-80a0-fcac144267b1)
 ![TableOfContentsTouch](https://github.com/kibum-j-kim/Shakespheare-First-Folio-Touch-Table-Application/assets/156856966/816dae89-c2e9-481e-8982-d22e636929b8)
 
+This repository only has the book class in C#. Other features, internal tools, sprite scan assets, libraries are not provided.
 
