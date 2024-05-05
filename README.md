@@ -7,13 +7,13 @@ Unity application of Shakespeare's First Folio for an interactive multi-touch ta
 ## Team
 
 
-Project Supervisor: Dr. Patrick Parra Pennefather
-Client: Chelsea Shriver, Rare Books and Special Collections Librarian
-Developer & UX Researcher: Ki Bum Kim
-Developer: Cam Hickling
-UX Designer & Researcher: Tianyi Fei
-UX Designer & Researcher: Maureen Luo
-Project Manager: Nicole Wang
+- Project Supervisor: Dr. Patrick Parra Pennefather
+- Client: Chelsea Shriver, Rare Books and Special Collections Librarian
+- Developer & UX Researcher: Ki Bum Kim
+- Developer: Cam Hickling
+- UX Designer & Researcher: Tianyi Fei
+- UX Designer & Researcher: Maureen Luo
+- Project Manager: Nicole Wang
 ---
 
 A first edition of William Shakespeare’s Comedies, Histories, & Tragedies. Published in 1623, the First Folio features 36 of Shakespeare’s 38 known plays.
