@@ -5,6 +5,7 @@ Unity application of Shakespeare's First Folio for an interactive multi-touch ta
 ---
 
 ## Team
+---
 Project Supervisor: Dr. Patrick Parra Pennefather
 Client: Chelsea Shriver, Rare Books and Special Collections Librarian
 Developer & UX Researcher: Ki Bum Kim
